@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Jéssica Silveira
+-Profissão: Estudante de Análise e Desenvolvimento de Sistemas
+-Cidade: Fortaleza
+-O que faz nas horas vagas: Assistir séries e leituras
+-Feedback sobre o curso Qualidade de Software: Muito bom
+-Feedback sobre a plataforma de estudo da EBAC: Muito boa
+
+Obrigado!!!
+
+
